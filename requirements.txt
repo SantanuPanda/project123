@@ -2,7 +2,6 @@ streamlit
 numpy
 pandas
 scikit-learn 
-pickle
-traceback
 # Or whatever ML library you used (e.g., tensorflow)
+
 # Add any other libraries your app imports!
